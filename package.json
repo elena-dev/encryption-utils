@@ -1,0 +1,23 @@
+{
+  "name": "encryption-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elena-dev/encryption-utils.git"
+  },
+  "keywords": [
+    "aes-256-cbc",
+    "sha256"
+  ],
+  "author": "elana-dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elena-dev/encryption-utils/issues"
+  },
+  "homepage": "https://github.com/elena-dev/encryption-utils#readme"
+}
