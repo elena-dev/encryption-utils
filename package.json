@@ -1,5 +1,5 @@
 {
-  "name": "aes256-utils",
+  "name": "encryption-utils",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
